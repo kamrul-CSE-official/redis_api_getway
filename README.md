@@ -1,3 +1,3 @@
 
 
-# university-management-api-gateway-starter
+# um-api-gateway-starter
